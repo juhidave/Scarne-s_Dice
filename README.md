@@ -1,4 +1,4 @@
-# Scarne-s_Dice
+# Scarne's_Dice
 
 Scarne’s Dice is a turn-based dice game where players score points by rolling a die and then: 
     
